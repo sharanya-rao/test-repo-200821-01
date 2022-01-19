@@ -21,6 +21,22 @@
       "template_folder": "_themes",
       "base_path": "javascript",
       "site_name": "Docs"
+    },
+    {
+      "docset_name": "test-repo-archive",
+      "build_source_folder": "test-repo-archive",
+      "build_output_subfolder": "test-repo-archive",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "base_path": "/previous-versions/test-repo-archive-01",
+      "site_name": "Docs"
     }
   ],
   "notification_subscribers": [],
